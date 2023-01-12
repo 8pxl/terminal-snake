@@ -9,7 +9,7 @@
 #include <vector>
 #include <chrono>
 #include <thread>
-#include "/Users/keijayhuang/Desktop/cee pee pee/snake/includes/conio.h"
+#include "includes/conio.h"
 
 class node
 {
